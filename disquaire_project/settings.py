@@ -33,7 +33,7 @@ else:
     DEBUG = True
 
 
-ALLOWED_HOSTS = ['online_store.herokuapp.com']
+ALLOWED_HOSTS = ['OnlineStore.herokuapp.com']
 
 
 
